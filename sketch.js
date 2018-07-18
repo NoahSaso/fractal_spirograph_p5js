@@ -5,7 +5,7 @@ var resolution = 50,
   howMany = 10,
   inside = false,
   k = -4,
-  showOrbits = false,
+  showOrbits = true,
   graphColor = { r: 0, g: 255, b: 255 }
   ;
 // CONFIG
